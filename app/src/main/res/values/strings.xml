@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OnayTestApplication</string>
+    <string name="tags">Tags</string>
+    <string name="questions">Questions</string>
+    <string name="answers">Answers</string>
+    <string name="no_answer_yet">No answer yet</string>
+    <string name="answer_count">Кол-во ответов: <font fgcolor='#071222'>%1$s</font></string>
+</resources>
